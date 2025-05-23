@@ -3,6 +3,8 @@
 A clean, modern, and responsive **Expense Tracker** that lets you log your daily expenses and visualize them by category — all in a Trello-style layout with powerful charts.
 
 🌐 **Live Demo**: [https://expense-tracker-sepia-two-83.vercel.app/](https://expense-tracker-sepia-two-83.vercel.app/)
+                  [https://expense-tracker-swadha-dwivedis-projects.vercel.app/](https://expense-tracker-swadha-dwivedis-projects.vercel.app/))
+
 
 ---
 
