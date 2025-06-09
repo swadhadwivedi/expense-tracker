@@ -37,6 +37,7 @@ A clean, modern, and responsive **Expense Tracker** that lets you log your daily
 Frontend Developer | Passionate about clean UI and intuitive UX  
 🔗 [LinkedIn](https://www.linkedin.com/in/swadhadwivedi)  
 📫 dswadha@gmail.com
+[GitHub Profile](https://github.com/swadhadwivedi)
 
 ---
 
